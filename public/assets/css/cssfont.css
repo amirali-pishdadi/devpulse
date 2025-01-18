@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 400;
+    src: url('../font/IRANSansWeb_FaNum.eot');
+    src: url('../font/IRANSansWeb_FaNumd41d.eot?#iefix') format('embedded-opentype') /* IE6-8 */,
+    url('../font/IRANSansWeb_FaNum.woff2') format('woff2') /* FF39+,Chrome36+, Opera24+*/,
+    url('../font/IRANSansWeb_FaNum.woff') format('woff') /* FF3.6+, IE9, Chrome6+, Saf5.1+*/,
+    url('../font/IRANSansWeb_FaNum.ttf') format('truetype');
+}
